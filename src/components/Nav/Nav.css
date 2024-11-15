@@ -1,0 +1,13 @@
+.nav-container{
+  margin-inline-start: 30px;
+  color: white;
+  font-size: 24px;
+
+}
+.items-container{
+  display: flex;
+  gap: 100px;
+}
+li{
+  list-style: none;
+}
